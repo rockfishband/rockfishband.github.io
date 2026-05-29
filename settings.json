@@ -2,7 +2,7 @@
   "metaTitle": "Sue Smith Links",
   "metaDescription": "👋🏻 Hiya I live in Glasgow and help folk learn to write code - worked at Glitch, Postman, Mozilla, now at Fastly" ,
   "name": "Sue Smith",
-  "avatarImage": "sue-square.jpg",
+  "avatarImage": "sueballs.jpg",
   "theme": "portfolio",
   "links": [
     {
@@ -102,6 +102,7 @@
     }
   ],
   "social": {
+    "hire": "https://www.buoyancies.com",
     "blog": "https://www.sue.codes",
     "glitch": "",
     "spotify": "",
@@ -117,6 +118,7 @@
     "medium": "",
     "patreon": "",
     "pinterest": "",
+    "resume":"https://www.benormal.info",
     "youtube": "",
     "twitch": "",
     "email": "sue@benormal.info"
