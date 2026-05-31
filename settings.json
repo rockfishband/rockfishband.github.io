@@ -2,7 +2,7 @@
   "metaTitle": "Sue Smith Links",
   "metaDescription": "👋🏻 Hiya I live in Glasgow and help folk learn to write code" ,
   "name": "Sue Smith",
-  "avatarImage": "sueballs.jpg",
+  "avatarImage": "https://www.suesmith.dev/sueballs.jpg",
   "theme": "portfolio",
   "links": [
     {
