@@ -1,11 +1,14 @@
 # Glitch in Bio!
 
-> ⚠️ ***I've migrated this site to Fastly https://suelinks.edgecompute.app***
+> ⚠️ **This was a Glitch in Bio site but now deploys to GitHub Pages**
+
+TLDR for 2026: Set your repo up to deploy to a Pages site from the `docs` folder, you can do this in the Settings area
+
+___
 
 Your links, your way. A link-in-bio app you can customize any way you want.
 
 🚀 **TL;DR Remix and edit `settings.json` to add your own links!** 🚀
-
 
 ### Working with Glitch in Bio
 
