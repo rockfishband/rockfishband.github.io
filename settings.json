@@ -7,6 +7,11 @@
   "theme": "portfolio",
   "links": [
     {
+      "url":"https://www.sue.codes/blog/whatfriction/",
+      "text": "Being intentional about friction",
+      "img":"friction.jpg"
+    },
+    {
       "url":"https://www.sue.codes/blog/fingerscode/",
       "text": "Monki Gras – Do your fingers remember how to code?",
       "img":"monki.jpg"
