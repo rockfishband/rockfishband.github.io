@@ -1,132 +1,36 @@
 {
-  "metaTitle": "Sue Smith Links",
-  "metaDescription": "👋🏻 Hiya I live in Glasgow and help folk learn to write code" ,
-  "name": "Sue Smith",
-  "avatarImage": "sueballs.jpg",
-  "metaImage": "https://www.suesmith.dev/suebio.jpg",
+  "metaTitle": "Rockfish Links",
+  "metaDescription": "Info about Rockfish the band" ,
+  "name": "Rockfish",
+  "avatarImage": "pic.jpg",
+  "metaImage": "https://www.rockfish.band/pic.jpg",
   "theme": "portfolio",
   "links": [
     {
-      "url":"https://www.sue.codes/blog/whatfriction/",
-      "text": "Being intentional about friction",
-      "img":"friction.jpg"
-    },
-    {
-      "url":"https://www.sue.codes/blog/fingerscode/",
-      "text": "Monki Gras – Do your fingers remember how to code?",
-      "img":"monki.jpg"
-    },
-    {
-      "url":"https://www.changetechnically.fyi/2396236/episodes/16081177-what-really-matters-in-software",
-      "text": "Me on the Change, Technically podcast",
-      "img":"changetechnically.jpg"
-    },
-    {
-      "url": "https://www.sue.codes/blog/pedagogyway/",
-      "text": "Pedagogy and AI-assisted coding",
-      "img": "blog.jpg"
-    },
-    {
-      "url": "https://developerrelations.com/developer-education/an-open-framework-for-developer-learning",
-      "text": "My DevRelCon talk about learning",
-      "img": "fram.jpg"
-    },
-    {
-      "url":"https://dev.to/fastly/we-should-still-teach-coding-3cjh", 
-      "text":"We should still teach coding", 
-      "img":"Screenshot_20250409_224513_Firefox.jpg"
-    } , 
-    {
-      "url": "https://blog.glitch.com/post/software-development-isnt-writing-syntax",
-      "text": "Software development isn't writing syntax",
-      "img": "Screenshot_20230618_225720_Firefox~2.jpg"
-    },
-    {
-      "url": "https://dev.to/glitch/what-is-worth-learning-41e3",
-      "text": "What is worth learning?",
-      "img": "0vhbje5xcgdkaukqhudk~2.jpg"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=y145tNGjISg&ab_channel=KinLane%2CTheAPIEvangelist",
-      "text": "Me on the API Evangelist podcast",
-      "img": "apievan.jpg"
-    },
-    {
-      "url": "https://dev.to/suesmith/lets-talk-about-algorithms-and-social-media-aj3",
-      "text":"On algorithms and social media",
-      "img":"machine.jpg"
-    },
-    {
-      "url": "https://dev.to/suesmith/abstractions-no-not-like-that-3pl3",
-      "text": "A blog post about abstractions",
-      "img": "Screenshot%202023-10-27%20at%2011.49.04~3.png"
-    },
-    {
-      "url": "https://dev.to/suesmith/how-i-make-learning-experiences-4ph2",
-      "text": "How I make learning experiences",
-      "img": "grange.jpg"
-    },
-    {
-      "text": "HTTP Keanu - learn about status codes",
-      "url": "https://keanu.codes",
-      "img": "keanu-reeves-john-wick~3.jpg"
-    },
-    {
-      "url": "https://clearmargins.glitch.me/",
-      "text": "Clear Margins – my blog about cancer",
-      "img": "clear.jpg"
-    },
-    {
-      "url": "https://blog.postman.com/how-we-build-learning-experiences-inside-postman/",
-      "text": "Building learning experiences at Postman",
-      "img": "postman.jpg"
-    },
-    {
-      "url": "https://www.codenewbie.org/podcast/what-you-need-to-know-about-apis",
-      "text": "Me on the CodeNewbie podcast",
-      "img": "codenewbie.jpg"
-    },
-    {
-      "url": "https://dev.to/suesmith/learning-as-engagement-infrastructure-314c",
-      "text": "Learning as engagement infrastructure",
-      "img": "ig4k9nvj7ozvjb6ocytx.jpg"
-    },
-    {
-      "url": "https://web.archive.org/web/20211012124333/https://developerrelations.com/developer-experience/approaching-developer-education",
-      "text": "An intro to developer education",
-      "img": "devrel.jpg"
-    },
-    {
-      "url": "https://web.archive.org/web/20151009043118/http://hivenyc.org/2015/09/08/hacking-mozillas-stories-for-local-impact/#expand",
-      "text": "Hacking Mozilla stories for local impact",
-      "img": "mozfest.jpg"
-    },
-    {
-      "url": "http://hackaye.com/news/hacking-participation/",
-      "text": "Using tech in arts and activist collaboration",
-      "img": "13965819.jpg"
+      "url":"",
+      "text": "",
+      "img":""
     }
   ],
   "social": {
-    "hire": "https://www.buoyancies.com",
-    "blog": "https://www.sue.codes",
     "glitch": "",
-    "spotify": "",
+    "spotify": "/",
     "substack": "",
-    "dev": "https://dev.to/suesmith",
-    "facebook": "",
-    "github": "https://github.com/suesmith",
-    "instagram": "",
-    "linkedin": "https://www.linkedin.com/in/sue-smith-benormal/",
-    "mastodon": "https://glasgow.social/@sue",
-    "cohost": "https://cohost.org/suesmith",
-    "bluesky":"https://bsky.app/profile/suesmith.Lol", 
+    "dev": "",
+    "facebook": "/",
+    "github": "",
+    "instagram": "/",
+    "linkedin": "",
+    "mastodon": "",
+    "cohost": "",
+    "bluesky":"/", 
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "resume":"https://www.benormal.info",
-    "youtube": "",
+    "youtube": "/",
     "twitch": "",
-    "email": "sue@benormal.info"
+    "bandcamp" : "/",
+    "soundcloud":"/",
+    "email": "rockfishtheband@gmail.com"
   }
 }
