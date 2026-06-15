@@ -45,3 +45,13 @@ ul.link-list li a:hover {
 h1 {
   color: var(--theme-color-title);
 }
+
+@media only screen and (max-width: 600px) {
+
+    html {
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+    }
+}
