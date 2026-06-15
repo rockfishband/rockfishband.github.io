@@ -16,9 +16,7 @@ export default defineConfig({
   plugins: [
     handlebars({
       partialDirectory: resolve(__dirname, 'layout'),
-      helpers: {
-        hostasclass: (value) => new URL(value).hostname.replace(/\./g,'_'),
-      },
+
       context: {
         settings
       }

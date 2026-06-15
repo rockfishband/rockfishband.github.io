@@ -1,36 +1,40 @@
 {
   "metaTitle": "Rockfish Links",
-  "metaDescription": "Info about Rockfish the band" ,
+  "metaDescription": "" ,
   "name": "Rockfish",
-  "avatarImage": "pic.jpg",
+  "avatarImage": "thumb.jpg",
   "metaImage": "https://www.rockfish.band/pic.jpg",
-  "theme": "portfolio",
+  "theme": "glitch",
   "links": [
     {
-      "url":"",
-      "text": "",
+      "url": "https://www.strathavenballoonfestival.co.uk/festival",
+      "text": "Strathaven Balloon Festival – 29th August 2026"
+    },
+    {
+      "url":"https://player.autopod.xyz/1336340?t=1h56m15s",
+      "text": "Saturday Magazine on Avondale Radio",
       "img":""
     }
   ],
   "social": {
     "glitch": "",
-    "spotify": "/",
+    "spotify": "https://www.rockfish.band",
     "substack": "",
     "dev": "",
-    "facebook": "/",
+    "facebook": "https://www.rockfish.band",
     "github": "",
-    "instagram": "/",
+    "instagram": "https://www.rockfish.band",
     "linkedin": "",
     "mastodon": "",
     "cohost": "",
-    "bluesky":"/", 
+    "bluesky":"https://www.rockfish.band", 
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "youtube": "/",
+    "youtube": "https://www.rockfish.band",
     "twitch": "",
-    "bandcamp" : "/",
-    "soundcloud":"/",
-    "email": "rockfishtheband@gmail.com"
+    "bandcamp" : "https://www.rockfish.band",
+    "soundcloud":"https://www.rockfish.band",
+    "email": "mailto:rockfishtheband@gmail.com"
   }
 }

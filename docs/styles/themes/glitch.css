@@ -9,14 +9,17 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
   --color-bg: #9480FF;
   --color-bg-alt: #D7F5EF;
   --color-text-main: #000000;
-  --color-primary: #AFECE0;
+  --color-primary: cyan;
   --theme-color-title: #FFFFFF;
 }
 
-body {
-  background: fixed linear-gradient(0deg,var(--color-bg-alt),var(--color-bg));
+html {
+  background-image: url("../../gig.jpg");
+  background-size: 100vw;
+  background-attachment: fixed;
 }
-
+/*  background: fixed linear-gradient(0deg,var(--color-bg-alt),var(--color-bg));
+*/
 ul.link-list li {
   font-size: 1.125rem;
 }
@@ -32,11 +35,11 @@ ul.link-list li a:visited {
 }
 
 ul.link-list li a:hover {
-  border: 4px solid var(--theme-color-title);
+  border: 4px solid white;
 }
 
 .social-profile-icon path {
-  fill: var(--color-bg);
+  fill: cyan;
 }
 
 h1 {

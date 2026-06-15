@@ -17,7 +17,7 @@ div.description {
   font-style:italic;
 }
 body {
-  background-image: url("../../wall_back_pixels.jpg");
+  background-image: url("");
   background-size:100%;
 }
 div.content {
@@ -40,7 +40,6 @@ img.avatar {
 }
 ul.link-list li a:link,
 ul.link-list li a:visited {
-  text-align:left;
   display:table;
   width:100%;
   padding:1rem;
