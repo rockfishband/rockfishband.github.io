@@ -1,9 +1,5 @@
 node_modules
 package-lock.json
-compute-js/node_modules 
-compute-js/bin
-compute-js/package
-compute-js/package-lock.json 
 docs/CNAME
 .DS_Store
 .vscode/settings.json
